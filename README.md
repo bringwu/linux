@@ -1,4 +1,4 @@
-# Terminal 
-command line configuration
+# Linux
+Terminal configuration
 
-![command line screenshot](./Capture.PNG)
+![command line screenshot](./bashrc/Capture.PNG)
